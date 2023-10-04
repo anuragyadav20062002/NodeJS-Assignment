@@ -1,0 +1,16 @@
+{
+  "name": "my-nodejs-assignment",
+  "version": "1.0.0",
+  "description": "-",
+  "main": "app.js",
+  "type": "module", 
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.21",
+    "node-fetch": "^2.6.4",
+    "memoizee": "^0.10.0"
+  },
+  "scripts": {
+    "start": "nodemon app.js"
+  }
+}
